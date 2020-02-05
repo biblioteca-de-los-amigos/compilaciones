@@ -1,5 +1,6 @@
 == Capítulo 10 El Diario de Charles Marshall
 
+[.chapter-subtitle--blurb]
 (1637 - 1698)
 
 Nací en la ciudad de Bristol, en el cuarto mes de 1637.
@@ -276,7 +277,7 @@ arrastrar a las personas visitadas a una disminución de su aprecio del poder,
 aparición y manifestación de Dios en sus días,
 y sacar sus mentes (mediante sus múltiples disfraces) hacia una estima,
 ya sea de la manifestación que ha sucedido o de la que puede estar por venir.
-Esto saca a la mente del debido respeto por la presente manifestación,
+Esto saca a la mente del debido respeto por la _presente_ manifestación,
 la única que puede obrar el bienestar eterno de la criatura.
 Este fue el caso de aquellos a quienes se les dijo: "`¡Oh, si también tú conocieses,
 a lo menos en este tu día, lo que es para tu paz!`"
@@ -397,8 +398,12 @@ así que si nosotros hubiéramos ido, con toda probabilidad habríamos muerto.
 Cuando algunos que estaban ahí vieron esto,
 fueron grandemente enternecidos y magnificaron el nombre del Señor.
 
+[.offset]
 En la visita a la ciudad de Londres dejé un pequeño documento,
 una copia del cual escribo a continuación:
+
+[.embedded-content-document.address]
+--
 
 Una advertencia a todas las personas que han inclinado
 su oído a la declaración de la Verdad,
@@ -419,6 +424,8 @@ Habrá un día de calamidad, miseria,
 asombro y angustia sobre los habitantes de la ciudad de Londres,
 y de dolor sobre la nación de Inglaterra; y después de este, a lo largo de las naciones,
 un día de reunión de los esparcidos de Israel y de los dispersos de Jacob.
+
+--
 
 En el nombre y autoridad del Dios Todopoderoso,
 también descargué mi consciencia en la ciudad de Bristol,
@@ -608,9 +615,10 @@ y los misterios del reino y viajes del Israel espiritual fueron abundantemente r
 Y ahora, el clamor de mi alma al Dios de mi vida es, que todos seamos un pueblo digno,
 para alabanza y reconocimiento del nombre del Señor!
 
-* * *
+[.asterism]
+'''
 
-Charles Marshall fue doctor en medicina por profesión,
+__Charles Marshall fue doctor en medicina por profesión,
 pero la mayor parte de su vida adulta la dedicó al cuidado y aliento del rebaño de Cristo.
 Tanto en la predicación como en la escritura,
 siempre tuvo cuidado de mantenerse detrás de la guía y movimientos del Espíritu,
@@ -624,9 +632,9 @@ ni se apoyaba en la memoria o en revelaciones anteriores,
 sino alguien que esperaba sentir el poder vivo y celestial de Dios
 para ser llevado adelante en sus ejercicios ministeriales,
 por lo cual, como ministro del evangelio correcto,
-a menudo refrescaba a la familia y herencia de Dios.`"
+a menudo refrescaba a la familia y herencia de Dios.`"__
 
-Aunque sufrió mucho por los perseguidores envidiosos de su época,
+__Aunque sufrió mucho por los perseguidores envidiosos de su época,
 se decía que "`no se dejó mover por los abusos o heridas,
 atribuyendo tales cosas a la naturaleza caída o a la ignorancia.`"
 Continuó fiel hasta el final a través de muchas pruebas y encarcelamientos,
@@ -636,4 +644,4 @@ En un corto testimonio de su vida, su esposa Hannah escribió:
 "`A medida que se acercaban sus últimos momentos, cerró sus ojos con su propia mano,
 y con alegría y compostura,
 como alguien a quien se le había quitado el aguijón de la muerte,
-encomendó su alma a Dios, el 15 del noveno mes de 1698, a los 62 años.`"
+encomendó su alma a Dios, el 15 del noveno mes de 1698, a los 62 años.`"__

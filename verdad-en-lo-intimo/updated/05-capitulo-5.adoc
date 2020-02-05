@@ -1,4 +1,7 @@
-== Capítulo 5 El Diario de John Burnyeat (1631 - 1690)
+== Capítulo 5 El Diario de John Burnyeat
+
+[.chapter-subtitle--blurb]
+(1631 - 1690)
 
 En el año 1653,
 le plació al Señor en Su amor y misericordia enviarnos a Su fiel siervo George Fox,
@@ -51,7 +54,8 @@ Entonces vi que había necesidad de un salvador para salvar del poder del pecado
 así como también de la sangre de un Cristo sacrificado para borrar el pecado,
 y de fe en Su nombre para la remisión de los pecados pasados.
 Después de esto comenzó la lucha del verdadero esfuerzo por entrar en el reino.
-Experimenté el estado de Pablo: El querer estaba presente, pero el poder para hacer,
+Experimenté el estado de Pablo: El __querer__ estaba presente,
+pero el poder para __hacer,__
 muchas veces estaba ausente.
 Entonces fue conocido el clamor:
 "`¡Miserable de mí! ¿Quién me librará de este cuerpo de muerte?,`" y ¿quién
@@ -466,13 +470,15 @@ ahora había llegado la mañana de alegría (de acuerdo a la antigua experiencia
 Salmo 30:5). Y aquellos que anteriormente habían pasado a través de profundas aflicciones,
 azotes y angustias, experimentaron el cumplimiento de esa gran promesa del evangelio:
 
-"`Oh afligida, azotada por la tempestad, sin consuelo,
+[quote.scripture, , Isaías. 54:11-14 LBLA]
+____
+Oh afligida, azotada por la tempestad, sin consuelo,
 yo asentaré tus piedras en antimonio, tus cimientos en zafiros.
 Haré tus almenas de rubíes, tus puertas de cristal, y todo tu muro de piedras preciosas.
 Todos tus hijos serán enseñados por el Señor, y grande será el bienestar de tus hijos.
 En justicia serás establecida.
-Estarás lejos de la opresión, pues no temerás, y del terror, pues no se acercará a ti.`"
-(Isaías 54:11-14, NBLH)
+Estarás lejos de la opresión, pues no temerás, y del terror, pues no se acercará a ti.
+____
 
 Como resultado de esto,
 llegamos a ser reunidos en pacto con Dios y a experimentar
@@ -669,7 +675,7 @@ el gran misterio del que Pablo escribe en Colosenses:
 "`Cristo en vosotros la esperanza de gloria`"! Cuando Él está ahí (en nosotros),
 grande es el misterio de Su operación en nosotros por medio de Su Espíritu,
 para abrir y aclarar el entendimiento de todos los que esperan correctamente
-en Él. Pues el alma del hombre es la que experimenta la santificación,
+en Él. Pues _el alma_ del hombre es la que experimenta la santificación,
 la unidad con la vida y la verdadera unción. En efecto,
 el alma es la que llega a ser un sacerdote del sacerdocio real,
 escogido y elegido en el pacto de Dios,
@@ -942,10 +948,17 @@ Y aunque algunas veces estaba cerca de apagar al Espíritu
 por lentitud y temor de hablar en el nombre del Señor,
 aun así crecía gradualmente y aumentaba en fe y confianza santa más y más.
 
+[.small-break]
+'''
+
 +++[+++La siguiente epístola fue escrita mientras estaba en Irlanda,
 y es una de muchas epístolas que pueden encontrarse en la versión no abreviaba
 del Diario de la Vida y Trabajos del Evangelio de John Burnyeat]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Queridos Amigos,
 
 En cariñoso y tierno amor saludo a todos los fieles al Señor, sin acepción de personas.
@@ -991,24 +1004,30 @@ cuando todos los demás consuelos me son quitados;
 pero es por medio de esa Semilla en la que los siento y los disfruto,
 en la que nuestra unidad, vida y amor permanecen, y en la que yo permanezco,
 
+[.signed-section-closing]
 Su hermano en mi medida recibida,
 
+[.signed-section-signature]
 John Burnyeat
 
+[.signed-section-context-close]
 Clanbrassil, Irlanda, el cuarto día del mes cuatro, de 1660
 
-* * *
+--
 
-Sería difícil exagerar la influencia que la vida y ministerio de
+[.asterism]
+'''
+
+__Sería difícil exagerar la influencia que la vida y ministerio de
 John Burnyeat tuvieron al principio de la Sociedad de Amigos.
 Después de su muerte en 1690, George Fox escribió de él: "`Fue un amigo y hermano fiel,
 y un ministro competente de Jesucristo... un verdadero apóstol de Jesucristo,
 quien Lo predicó gratuitamente, tanto por mar como por tierra.
 Fue un anciano y pilar en la casa de Dios,
 y un hombre muy dotado de la sabiduría de Dios,
-y en ella tenía cuidado del bienestar de la iglesia de Cristo.`"
+y en ella tenía cuidado del bienestar de la iglesia de Cristo.`"__
 
-Como muchos otros de los primeros trabajadores que el Señor envió a Su cosecha,
+__Como muchos otros de los primeros trabajadores que el Señor envió a Su cosecha,
 John Burnyeat viajó y ministró incesantemente,
 predicando y animando al rebaño de Cristo por toda Inglaterra, Escocia, Irlanda,
 Barbados y las colonias en América.
@@ -1021,4 +1040,4 @@ que lo conocieron mejor lo describen como "`un instrumento precioso en la mano d
 capaz y hábil en el ministerio para la consolación
 de Su pueblo... un jovial alentador de ellos,
 un querido amigo y verdadero hermano, un diligente obispo y tierno padre,
-un hombre perfecto y recto en su día.`"
+un hombre perfecto y recto en su día.`"__

@@ -1,4 +1,4 @@
-== Capítulo 1 Introducción
+== Capítulo 1. Introducción
 
 El nacimiento de la Sociedad Religiosa de los Amigos (llamada cuáqueros),
 es usualmente atribuido a la predicación y ministerio de
@@ -121,8 +121,10 @@ correctamente lo que los primeros Amigos enseñaban acerca de este tema esencial
 
 Cuando los primeros cuáqueros hablaban de esta luz,
 no se estaban refiriendo a algo que perteneciera al hombre por naturaleza.
-Isaac Penington escribe,
+Isaac Penington escribe:
 
+[quote]
+____
 El hombre está muerto en delitos y pecados por naturaleza; muy muerto,
 y su consciencia está totalmente oscura.
 Entonces,
@@ -136,6 +138,7 @@ lo encuentra en tinieblas.
 Cristo no halla luz en el hombre que exponga el pecado,
 por eso todos los descubrimientos de pecado que son hechos en el corazón,
 son hechos mediante la luz de Cristo, no mediante alguna luz de la naturaleza del hombre.
+____
 
 En otras palabras,
 el hombre natural no tiene absolutamente ninguna luz verdadera inherente en sí mismo.
@@ -160,7 +163,7 @@ e insistían en que Dios ofrecía vida a toda la humanidad
 a través de una medida de Su luz o gracia,
 que testifica en el corazón contra el pecado,
 e invita al alma a encontrar salvación en Cristo.
-Es la misericordiosa e interna invitación, la que es universal.
+Es la misericordiosa e interna _invitación,_ la que es universal.
 Cuando es recibida, seguida y obedecida, esta luz se vuelve la vida y salvación del alma.
 Cuando es rechazada, la misma luz se vuelve condenación eterna para el hombre.
 (Ver Juan 3:19-21) Los primeros cuáqueros no proponían
@@ -202,8 +205,10 @@ Los cuáqueros eran, por tanto,
 extremadamente cuidadosos y premeditados con respecto a esperar en el
 Señor en el silencio de su carne y sentir Su Espíritu vivificador,
 antes de intentar orar, predicar, adorar, animar o amonestar en sus reuniones.
-En palabras de Robert Barclay,
+En palabras de Robert Barclay:
 
+[quote]
+____
 Con respecto a la adoración pública,
 juzgamos que es deber de todos congregarse diligentemente, y cuando están reunidos,
 la gran labor tanto de uno como de todos debe ser esperar en Dios,
@@ -223,6 +228,7 @@ ni saca sus propias cosas investigadas y reunidas,
 sino que todos presentan aquello que el Señor pone en sus corazones, y lo dice,
 no en la voluntad y sabiduría del hombre,
 sino "`con demostración del Espíritu y de poder.`"
+____
 
 Es importante aclarar que el silencio nunca fue una meta de las reuniones cuáqueras.
 El silencio de la mente precipitada y carnal,
@@ -316,6 +322,8 @@ Cada selección ha sido cuidadosamente modernizada y mínimamente editada,
 con la esperanza de reintroducir las vidas y principios
 de estos notables hombres y mujeres al lector moderno.
 
+[.signed-section-signature]
 Jason R. Henderson
 
+[.signed-section-context-close]
 Julio, 2016

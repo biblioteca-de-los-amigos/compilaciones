@@ -1,5 +1,6 @@
 == Capítulo 11 La Vida de Thomas Story
 
+[.chapter-subtitle--blurb]
 (1662 - 1742)
 
 Creo apropiado hacer un recuento en este lugar,
@@ -314,6 +315,9 @@ en el que se me obligó a permanecer hasta la noche.
 Luego la escritura de Juan 13:10 fue traída a mi memoria,
 y comencé a escribir de la siguiente manera, según se me revelaban las cosas en mi mente:
 
+[.embedded-content-document.prayer]
+--
+
 "`Jesús le dijo: '`El que está lavado, no necesita sino lavarse los pies,
 pues está todo limpio.`'`" El lavado de los pies significa la limpieza de los caminos,
 y aquellos que se hayan lavado en la fuente de la regeneración,
@@ -395,7 +399,13 @@ Sin embargo,
 Él removía las montañas de mi camino y mediante Sus
 operaciones secretas me empujaba hacia adelante.
 
+--
+
+[.offset]
 +++[+++En otro momento él escribió la siguiente oración:]
+
+[.embedded-content-document.prayer]
+--
 
 ¡Oh, Todopoderoso, incomprensible, e infinitamente misericordioso Señor Dios,
 por cuanto nadie puede entrar en Tu reposo, a menos que sea regenerado y renovado,
@@ -419,6 +429,8 @@ para aferrarme a Tu más segura promesa,
 y poder ser hecho partícipe de la gloria que está reservada,
 para Tus siervos en Tus moradas eternas!
 
+--
+
 Al encontrar que la conversación de la humanidad era generalmente trivial,
 no digna del pensamiento de criaturas racionales,
 y que se inclinaba mucho más al vicio que a la virtud,
@@ -428,9 +440,15 @@ A veces tenía pensamientos sobre otros objetos,
 de los cuales escribía (sin ninguna búsqueda o trabajo)
 tal como eran presentados en mi mente de tiempo en tiempo.
 
+[.small-break]
+'''
+
 +++[+++La siguiente oración escrita muestra que él también
 experimentó disminuciones de la vida divina,
 después de las épocas de regocijo de las que ha hablado.]
+
+[.embedded-content-document.prayer]
+--
 
 ¡Oh, Señor, ten piedad de un alma que perece, llevada bajo una multitud de afectos viles,
 pisoteada bajo el pie de la insolencia del maligno!
@@ -449,6 +467,8 @@ y fija mis límites ahí por los siglos de los siglos! ¡Tú, que les dijiste a 
 y deja que Tus misericordias estén siempre delante de mí! ¡Levántame,
 para que yo pueda alabarte en el firmamento de Tu poder! ¡Humíllame,
 para que pueda exaltar Tu nombre en medio de las naciones!
+
+--
 
 Una profunda reflexión entró a mi mente con respecto a los
 estados de muchas personas en la forma nacional de adoración,
@@ -1079,16 +1099,17 @@ a través del único Espíritu entre los santificados en Cristo,
 cuando los miembros de Cristo se sientan juntos en un estado
 de silencio santo en sus lugares celestiales en Él.
 
-* * *
+[.asterism]
+'''
 
-Thomas Story se convirtió en un ministro extremadamente
+__Thomas Story se convirtió en un ministro extremadamente
 dotado y servicial en la Sociedad de Amigos,
 que viajó por todo Inglaterra, Irlanda, Escocia, Holanda, Jamaica,
 Barbados y las colonias en América.
 Fue conocido tanto por su profundidad espiritual como por su genio intelectual,
-y sus escritos llegaron a ser de mucha influencia entre los cuáqueros.
+y sus escritos llegaron a ser de mucha influencia entre los cuáqueros.__
 
-En 1695 Thomas Story se hizo amigo de William Penn,
+__En 1695 Thomas Story se hizo amigo de William Penn,
 y en 1698 navegó a Pensilvania (a pedido de Penn),
 donde ocupó varios cargos públicos en la provincia en desarrollo.
 Permaneció ahí por dieciséis años,
@@ -1097,4 +1118,4 @@ de Señor por encima de sus negocios en el mundo,
 e incluso,
 declinó posiciones y promociones que podrían haber estorbado su servicio a la iglesia.
 Se casó en América, pero perdió su esposa después de sólo seis años,
-y luego regresó a Inglaterra donde continuó como ministro hasta su muerte en 1742.
+y luego regresó a Inglaterra donde continuó como ministro hasta su muerte en 1742.__

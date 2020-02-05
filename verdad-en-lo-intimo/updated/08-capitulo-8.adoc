@@ -1,4 +1,7 @@
-== Capítulo 8 Memorias de John Crook (1617 - 1699)
+== Capítulo 8 Memorias de John Crook
+
+[.chapter-subtitle--blurb]
+(1617 - 1699)
 
 He sido presionado a menudo en espíritu a escribir
 la siguiente historia acerca de mi vida,
@@ -919,9 +922,10 @@ tanto para alabanza de las riquezas de Su gracia,
 como para el consuelo de los que nos sobreviven en la misma verdad!
 Amén.
 
-* * *
+[.asterism]
+'''
 
-John Crook fue un sabio comerciante en la casa del Señor,
+__John Crook fue un sabio comerciante en la casa del Señor,
 que vendió todo lo que tenía para comprar la Perla de gran precio.
 Aunque nació en una familia acomodada,
 y por educación y dones naturales se convirtió en una prominente figura pública,
@@ -930,9 +934,9 @@ la excelencia del conocimiento de Jesucristo.
 A través de muchos malos tratos, diez encarcelamientos y varias enfermedades prolongadas,
 su espíritu fue guardado dulce, humilde y en verdadero temor del Señor, tanto así,
 que después de su muerte uno que había sido su amigo por más de cuarenta años dijo:
-"`Yo no recuerdo haberlo oído pronunciar una palabra desagradable o clamar impacientemente.`"
+"`Yo no recuerdo haberlo oído pronunciar una palabra desagradable o clamar impacientemente.`"__
 
-Poco antes de su muerte, acaecida a los 82 años,
+__Poco antes de su muerte, acaecida a los 82 años,
 escribió una epístola a sus hijos y nietos,
 ofreciéndoles importante consejo a partir de una vida llena de profunda experiencia.
 La carta empieza de la siguiente manera: "`Queridos hijos,
@@ -945,4 +949,4 @@ eterno y los preservará fuera de los caminos de impiedad.
 He visto mucho en mis días y he observado que el temor del
 Señor Dios siempre resultó ser la mejor porción,
 y que aquellos que caminaron en él, fueron las únicas personas felices,
-tanto en esta vida (mientras se mantuvieron fieles) como cuando llegaron a la muerte.`"
+tanto en esta vida (mientras se mantuvieron fieles) como cuando llegaron a la muerte.`"__
