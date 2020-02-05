@@ -1,5 +1,6 @@
 == Capítulo 9 La Vida de Elizabeth Stirredge
 
+[.chapter-subtitle--blurb]
 (1634 - 1706)
 
 Le ha placido al Señor considerarme digna de viajar en el camino a Sión,
@@ -461,7 +462,11 @@ porque Él me sustentó en mi travesía, me dio fuerza para hacer Su voluntad,
 y me brindó Su presencia viva para acompañarme;
 lo cual es el consuelo más grande que se pueda disfrutar.
 
+[.offset]
 Este fue mi testimonio al Rey Carlos II, en el mes once de 1670.
+
+[.embedded-content-document.testimony]
+--
 
 "`Esto es para ti, oh, rey:
 Oye lo que el Señor ha encomendado a mi cargo con respecto a ti.
@@ -473,6 +478,8 @@ oye y teme al Señor Dios del cielo y de la tierra,
 porque de Sus juicios justos todos serán hechos partícipes;
 desde el rey que se siente en el trono,
 hasta el mendigo que se sienta en el estercolero.`"
+
+--
 
 Yo entregué este testimonio en sus manos, con estas palabras: "`Oye, oh rey,
 y teme al Señor Dios del cielo y la tierra.`"
@@ -610,7 +617,7 @@ y mantengan refrenadas sus lenguas, porque el que no experimenta un freno en su 
 la religión del tal es vana.
 Si van a ser herederos del reino de los cielos y de la corona inmortal,
 deben tomar la cruz cada día, porque "`No Cruz, No Corona`"^
-footnote:[No cruz, No corona, es el título del famoso libro de William Penn,
+footnote:[__No Cruz, No Corona,__ es el título del famoso libro de William Penn,
 escrito durante su encarcelamiento en la Torre de Londres,
 en 1669.]. La cruz mantendrá sus mentes en sujeción al Dios vivo, y al estar en sujeción,
 y temblar y no pecar,
@@ -672,9 +679,10 @@ Pero más bendito sea el nombre del Señor nuestro Dios, y el brazo derecho de S
 que ha sido manifestado día tras día, y año tras año,
 para la continuación de Su obra y preservación de Sus hijos.
 
-* * *
+[.asterism]
+'''
 
-Elizabeth Stirredge nunca fue ministra en la Sociedad de Amigos,
+__Elizabeth Stirredge nunca fue ministra en la Sociedad de Amigos,
 pero todos la conocían como una que "`había estado en el consejo del Señor,
 y vio y oyó Su palabra`" (Jeremías 23:18; LBLA).
 Ella fue fiel en lo poco, y el Señor le confió mucho,
@@ -685,13 +693,13 @@ inclinándose ante Su más pequeña aparición y aferrándose a Su cruz.
 Por tanto, al ser pequeña a sus propios ojos,
 el Señor era libre de exaltarla y usarla para Su propia gloria y propósito,
 lo cual hizo con frecuencia,
-a menudo de maneras muy notables (ver el resto de su diario).
+a menudo de maneras muy notables (ver el resto de su diario).__
 
-Como muchos otros que se aferraron a la Verdad en aquel día,
+__Como muchos otros que se aferraron a la Verdad en aquel día,
 Elizabeth Stirredge experimentó su parte en las persecuciones y encarcelamientos,
 y a veces "`alegremente aceptó el saqueo de sus bienes.`"
 Increíblemente,
 acogió tales pruebas
 como señales del amor de Dios hacia ella,
 diciendo a menudo que no tenía mayor alegría que
-ser contada digna de sufrir por Su nombre.
+ser contada digna de sufrir por Su nombre.__

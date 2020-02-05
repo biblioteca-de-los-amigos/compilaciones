@@ -1,5 +1,6 @@
 == Capítulo 7 El Diario de John Griffith
 
+[.chapter-subtitle--blurb]
 (1713 - 1776)
 
 Ha estado en mi mente escribir algo a modo de diario, de mi vida, viajes y experiencias,
@@ -915,9 +916,10 @@ la cual es totalmente suficiente para dar completa victoria sobre todos ellos.
 En verdad, Él es capaz de darnos poder para triunfar y decir,
 "`somos más que vencedores por medio de aquel que nos amó.`"
 
-* * *
+[.asterism]
+'''
 
-John Griffith fue ministro entre 1734 y 1776,
+__John Griffith fue ministro entre 1734 y 1776,
 cerca de cien años después del gran derramamiento
 de luz y poder que dio origen a la Sociedad de Amigos.
 A pesar de que la Sociedad continuó creciendo en número a través de la mayor
@@ -941,9 +943,9 @@ Puede ser justamente preguntado:
 ¡A pesar de lo cual, qué indiferencia,
 tibieza e insensibilidad hacia la vida de la religión
 son halladas ahora entre muchos bajo nuestro nombre!
-Más aún, en algunos lugares este doloroso letargo ha llegado a ser casi general.`"
+Más aún, en algunos lugares este doloroso letargo ha llegado a ser casi general.`"__
 
-John Griffith junto con una fiel minoría en su generación,
+__John Griffith junto con una fiel minoría en su generación,
 derramaron sus vidas por las verdades del evangelio,
 por la pureza de la iglesia y por la gloria del Señor en la tierra.
-Murió por complicaciones de asma en 1776, a los 63 años de edad.
+Murió por complicaciones de asma en 1776, a los 63 años de edad.__

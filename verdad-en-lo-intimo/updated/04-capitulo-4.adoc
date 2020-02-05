@@ -1,5 +1,9 @@
-== Capítulo 4 La Carta de Elizabeth Webb (1663 - 1726)
+== Capítulo 4 La Carta de Elizabeth Webb
 
+[.chapter-subtitle--blurb]
+(1663 - 1726)
+
+[.salutation]
 Honorable amigo,^
 footnote:[El destinatario de esta carta era Anthony William Boehm,
 capellán del Príncipe Jorge de Dinamarca.
@@ -827,11 +831,13 @@ aún así, ningún tormento los tocará y descansarán en paz.
 Mi alma te saluda en el amor que es puro,
 y permanece siendo tu amiga en verdadera sinceridad,
 
+[.signed-section-signature]
 Elizabeth Webb
 
-* * *
+[.asterism]
+'''
 
-Elizabeth Webb fue una respetada ministra en la Sociedad de Amigos,
+__Elizabeth Webb fue una respetada ministra en la Sociedad de Amigos,
 en cuyo servicio viajó extensamente por el evangelio.
 Como se menciona en la carta anterior,
 ella cruzó el Atlántico en 1697 para ministrar entre las colonias americanas,
@@ -841,4 +847,4 @@ donde continuó como ministra hasta su muerte en 1726.
 En al menos una ocasión (en 1710),
 ella regresó a Inglaterra en obediencia a la guía del Señor. Poco se sabe
 sobre este viaje además de su encuentro con Anthony William Boehm en Londres,
-a quien es dirigida esta carta.
+a quien es dirigida esta carta.__

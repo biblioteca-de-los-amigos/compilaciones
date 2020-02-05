@@ -1,5 +1,6 @@
 == Capítulo 6 La Vida de Joseph Pike
 
+[.chapter-subtitle--blurb]
 (1657 - 1729)
 
 Es mi deber dar cuenta de mis viajes espirituales y de los diversos ejercicios
@@ -612,9 +613,10 @@ de un progreso, y finalmente, de una herencia en la eterna Verdad del Señor,
 la cual ustedes profesan.
 Únicamente esto da verdadera aceptación, unión y comunión con Él.
 
-* * *
+[.asterism]
+'''
 
-Joseph Pike no fue un ministro itinerante en la Sociedad de Amigos,
+__Joseph Pike no fue un ministro itinerante en la Sociedad de Amigos,
 pero llegó a ser un anciano tan valioso,
 que muchos Amigos (incluyendo ministros) regularmente buscaban su sabiduría y consejo.
 Estaba inusualmente dotado de un entendimiento de los asuntos y disciplina de la iglesia,
@@ -622,9 +624,9 @@ y se aplicaba con toda diligencia al cuidado y fortalecimiento
 del cuerpo del Señor. Su más grande preocupación,
 tanto por sí mismo como por todos los que habían recibido a Cristo Jesús,
 era que todos verdaderamente '`caminaran en Él`' y '`adornaran
-la doctrina de Dios nuestro Salvador en todas las cosas.`'
+la doctrina de Dios nuestro Salvador en todas las cosas.`'__
 
-Continuó siendo un pilar fiel en la iglesia hasta el final,
+__Continuó siendo un pilar fiel en la iglesia hasta el final,
 escribiendo poco antes de su muerte: "`Todavía estoy en la tierra de los vivos,
 pero cuánto tiempo seguiré así, está en Su divina mano, pues estoy débil en el cuerpo,
 aunque espero que fuerte en espíritu, esperando ahora mi fin,
@@ -632,4 +634,4 @@ hasta el momento en que al Señor le plazca llamarme.
 Oro a Él con todas las fuerzas de mi alma que me guarde hasta el final,
 y que yo pueda estar verdaderamente preparado para esa segura, aunque incierta hora,
 cuando llegue.`"
-Él murió en 1729 a los setenta y dos años de edad.
+Él murió en 1729 a los setenta y dos años de edad.__

@@ -1,5 +1,6 @@
-== Capítulo 2 La Vida de Stephen Crisp
+== Capítulo 2. La Vida de Stephen Crisp
 
+[.chapter-subtitle--blurb]
 (1628 - 1692)
 
 ¡Oh, todos ustedes santos y todos ustedes habitantes de la tierra,
@@ -157,7 +158,7 @@ un temor tanto sobre el alma como sobre el cuerpo.
 En realidad, a menudo se apoderaban de mí estremecimientos y horrores,
 al temer que yo hubiera sido separado como una vasija de ira, y que por eso,
 debía llevar el hervor de fuego de Dios para siempre.
-¡Oh, esa palabra siempre con frecuencia me parecía terrible,
+¡Oh, esa palabra __siempre__ con frecuencia me parecía terrible,
 pero no sabía cómo evitar esto!
 
 En este momento empecé a percibir más claramente
@@ -446,9 +447,11 @@ en el nombre y autoridad del Señor,
 el cual no pude resistir con toda mi sabiduría y conocimiento; más bien,
 era constreñido a reconocer y a confesar la verdad.
 
-* * *
+[.asterism]
+'''
 
-Nota del Editor
+[.alt.centered]
+==== Nota del Editor
 
 +++[+++Se dice de James Parnell que "`era joven,
 pequeño de estatura y de pobre apariencia,`" pero miles fueron
@@ -467,6 +470,10 @@ carta de James Parnell fue dirigida a Stephen Crisp,
 probablemente poco tiempo después del primer encuentro
 entre ellos y el convencimiento de Crisp.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigo,
 
 Permanece y mantén tu mente hacia lo que te deja
@@ -520,7 +527,10 @@ para que Él sea tu Cabeza,
 y encontrarás el camino de paz y habitarás en unidad con los fieles.
 Y aunque seas odiado por el mundo, con todo, en Dios tendrás paz y bienestar.
 
+[.signed-section-signature]
 James Parnell
+
+--
 
 Después de la muerte de James Parnell,
 Stephen Crisp fue llamado a escribir un corto testimonio
@@ -530,6 +540,9 @@ recuerdo de Parnell como instrumento de Dios,
 mediante el cual, su largo deambular y cansada alma fue vuelta a la Verdad.
 Hablando tiempo después de la gran obra del Señor en aquellos días,
 Crisp continúa diciendo:
+
+[.embedded-content-document.letter]
+--
 
 Los bebés han sido Sus mensajeros y los niños Sus ministros,
 quienes en su inocencia han recibido la revelación de Su Espíritu Santo,
@@ -547,9 +560,13 @@ Se podría decir mucho de este hombre,
 y en mi corazón vive un gran testimonio de su bendita vida,
 y del poder y sabiduría que abundaban en él.]
 
-De Regreso al Diario de Stephen Crisp
+--
 
-* * *
+[.alt.centered]
+==== De Regreso al Diario de Stephen Crisp
+
+[.asterism]
+'''
 
 Al ver que mi sabiduría y mi razón eran superadas por la verdad,
 no pude contender más contra ella.
@@ -902,7 +919,7 @@ y les declaraba que los juicios de Dios se habían
 acercado y estaban sobre ellos por su gran maldad,
 los cuales se cumplieron rápidamente después, tanto por guerra como por fuego,
 y muchas calamidades más.^
-footnote:[Nota de pie de página: Más notablemente:
+footnote:[Más notablemente:
 Una guerra que comenzó en 1665 entre los ingleses y los holandeses,
 y que terminó con una victoria holandesa.
 La Plaga de Londres en 1665-1666 (en la que murieron entre 100.000 y 200.000 personas).
@@ -940,9 +957,10 @@ establecí varias nuevas reuniones,
 y me deleité al ver el buen orden y gobierno de los
 asuntos relacionados con la Verdad y los Amigos.
 
-* * *
+[.asterism]
+'''
 
-"`Stephen Crisp continuó un ministerio fiel y diligente
+__Stephen Crisp continuó un ministerio fiel y diligente
 en la Sociedad de Amigos hasta su muerte en 1692,
 a los 64 años. Durante sus 35 años de ministerio,
 él fue conocido por todos como un obrero incansable, un padre alentador en la iglesia,
@@ -960,4 +978,4 @@ En su lecho de muerte se le oyó decir:
 "`Quiero que el Señor me libere de este cuerpo fastidioso y doloroso.
 Con sólo que Él diga la palabra, será hecho.
 No veo una nube en mi camino.
-Tengo la plena seguridad de mi paz con Dios en Cristo Jesús.`"
+Tengo la plena seguridad de mi paz con Dios en Cristo Jesús.`"__
