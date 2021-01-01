@@ -1,7 +1,7 @@
 == Capítulo 9 La Vida de Elizabeth Stirredge
 
-[.chapter-subtitle--blurb]
-(1634 - 1706)
+[.section-date]
+1634--1706
 
 Le ha placido al Señor considerarme digna de viajar en el camino a Sión,
 un camino que he encontrado recto y estrecho.

@@ -1,7 +1,7 @@
 == Capítulo 7 El Diario de John Griffith
 
-[.chapter-subtitle--blurb]
-(1713 - 1776)
+[.section-date]
+1713--1776
 
 Ha estado en mi mente escribir algo a modo de diario, de mi vida, viajes y experiencias,
 en los compasivos y misericordiosos tratos del Señor conmigo,

@@ -1,7 +1,7 @@
 == Capítulo 10 El Diario de Charles Marshall
 
-[.chapter-subtitle--blurb]
-(1637 - 1698)
+[.section-date]
+1637--1698
 
 Nací en la ciudad de Bristol, en el cuarto mes de 1637.
 Mi educación y crianza fueron según las más estrictas formas de la religión,

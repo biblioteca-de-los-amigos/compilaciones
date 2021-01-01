@@ -1,7 +1,7 @@
 == Capítulo 4 La Carta de Elizabeth Webb
 
-[.chapter-subtitle--blurb]
-(1663 - 1726)
+[.section-date]
+1663--1726
 
 [.salutation]
 Honorable amigo,^

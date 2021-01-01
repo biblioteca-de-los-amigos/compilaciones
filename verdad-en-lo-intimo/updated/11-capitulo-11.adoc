@@ -1,7 +1,7 @@
 == Capítulo 11 La Vida de Thomas Story
 
-[.chapter-subtitle--blurb]
-(1662 - 1742)
+[.section-date]
+1662--1742
 
 Creo apropiado hacer un recuento en este lugar,
 de algunos de los tratos misericordiosos del Señor conmigo desde mis primeros

@@ -1,7 +1,7 @@
 == Capítulo 8 Memorias de John Crook
 
-[.chapter-subtitle--blurb]
-(1617 - 1699)
+[.section-date]
+1617--1699
 
 He sido presionado a menudo en espíritu a escribir
 la siguiente historia acerca de mi vida,

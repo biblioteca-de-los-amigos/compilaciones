@@ -1,7 +1,7 @@
 == Capítulo 2. La Vida de Stephen Crisp
 
-[.chapter-subtitle--blurb]
-(1628 - 1692)
+[.section-date]
+1628--1692
 
 ¡Oh, todos ustedes santos y todos ustedes habitantes de la tierra,
 que el nombre de Jehová sea famoso entre ustedes,
