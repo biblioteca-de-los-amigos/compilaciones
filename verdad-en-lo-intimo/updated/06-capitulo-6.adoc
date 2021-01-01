@@ -1,7 +1,7 @@
 == Capítulo 6 La Vida de Joseph Pike
 
-[.chapter-subtitle--blurb]
-(1657 - 1729)
+[.section-date]
+1657--1729
 
 Es mi deber dar cuenta de mis viajes espirituales y de los diversos ejercicios
 del alma por los que he pasado y experimentado en el camino de regeneración,

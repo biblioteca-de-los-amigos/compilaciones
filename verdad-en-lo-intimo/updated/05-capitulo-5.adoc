@@ -1,7 +1,7 @@
 == Capítulo 5 El Diario de John Burnyeat
 
-[.chapter-subtitle--blurb]
-(1631 - 1690)
+[.section-date]
+1631--1690
 
 En el año 1653,
 le plació al Señor en Su amor y misericordia enviarnos a Su fiel siervo George Fox,
