@@ -70,6 +70,9 @@ La siguiente cita de Gerhard Tersteegen (que no era ni Católico ni Cuáquero),
 me parece digna de ser insertada aquí para respaldar la
 publicación de este tratado por la Sociedad de Amigos.
 
+[.embedded-content-document.letter]
+--
+
 Entre esas almas escogidas y devotas a Dios,
 hay que incluir también a los que por lo general
 se reconocen como "`Místicos,`" (esto es,
@@ -104,6 +107,10 @@ vida del yo son atacadas con demasiada severidad?
 (como los otros libros que se acomodan al paladar del viejo Adán),
 sino que insisten en la negación y muerte del yo?
 
---Jason Henderson
+--
 
+[.signed-section-signature]
+Jason Henderson
+
+[.signed-section-context-close]
 Diciembre 2022
