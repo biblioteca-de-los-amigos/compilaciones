@@ -1,4 +1,4 @@
-[#cap2, short="Método para Alcanzar la Verdadera Oración"]
+[short="Método para Alcanzar la Verdadera Oración"]
 == Capítulo 5. El Método para Alcanzar la Verdadera Oración
 
 El tipo de oración al que hemos aludido es la del silencio interno,

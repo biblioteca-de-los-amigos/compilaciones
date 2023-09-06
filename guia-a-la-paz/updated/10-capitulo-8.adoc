@@ -1,4 +1,4 @@
-[#cap8, short="Sobre las Tentaciones y las Tribulaciones"]
+[short="Sobre las Tentaciones y las Tribulaciones"]
 == Capítulo 8. Sobre las Tentaciones y las Tribulaciones^
 footnote:[O "`pruebas,`" y así a lo largo de este capítulo.
 // lint-disable invalid-characters

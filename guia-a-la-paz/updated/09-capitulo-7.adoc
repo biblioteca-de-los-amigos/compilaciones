@@ -1,3 +1,4 @@
+[short="Sobre Defectos y Debilidades"]
 == Capítulo 7. Sobre Defectos y Debilidades
 
 Si bajamos la guardia tanto como para vagar nuevamente
